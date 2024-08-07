@@ -4,27 +4,27 @@ To get a local copy up and running follow these simple steps:
 
 1.Clone the repo:
 
-    ```bash
+    bash
     git clone [https://github.com/yourusername/react-projects.git](https://github.com/pranotidhangar?tab=repositories)
-    ```
+    
 
 2.Navigate to the project directory:
 
-    ```bash
+    bash
     cd react-projects
-    ```
+    
 
 3.Install dependencies:
 
-    ```bash
+    bash
     npm install
-    ```
+    
 
 4.Run the application:
 
-    ```bash
+    bash
     npm start
-    ```
+    
 
     The app will be available at `http://localhost:3000` in your browser.
 
