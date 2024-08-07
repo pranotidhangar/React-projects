@@ -4,24 +4,24 @@
 
   This application fetches news articles from a news API (specify which one) and displays them in a user-friendly interface. Users can filter news by category, search for specific keywords, and view detailed article information.
 
- ✔ Technologies Used
+✔ Technologies Used
 
    ✨React: For building the user interface and managing application state.
    ✨Bootstrap: For styling and responsive design.
    ✨News API: For fetching news articles (replace with your API).
 
- ✔ Features
+✔ Features
 
    ✨Displays news articles from various categories.
    ✨Allows users to search for specific news topics.
    ✨Provides detailed article information, including title, description, image, and source.
    ✨Responsive design for optimal viewing on different screen sizes.
 
- ✔ Installation
+✔ Installation
 
 1. Clone the repository:
   bash
-     git clone https://github.com/your-username/news-app.git
+     git clone [https://github.com/your-username/news-app.git](https://github.com/pranotidhangar?tab=repositories)
 
 2. Install dependencies:
   bash
@@ -36,7 +36,6 @@
 4. Start the development server:
   bash
      npm start
-
 
 ✔ Usage
 
