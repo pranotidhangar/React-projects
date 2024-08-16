@@ -1,3 +1,14 @@
+/**
+ * The above function is a BMI calculator implemented in JavaScript using React, allowing users to
+ * input their weight and height to calculate their BMI and receive a corresponding message based on
+ * the result.
+ * @returns The code snippet is a functional component in React called `HomePage`. It contains a BMI
+ * calculator form where users can input their weight and height in pounds to calculate their BMI (Body
+ * Mass Index). The component uses React hooks such as `useState` to manage the state of weight,
+ * height, BMI value, and a message indicating the weight status.
+ */
+/* The code snippet you provided is a React functional component named `HomePage` that implements a BMI
+calculator. Here's a breakdown of what the code does: */
 import React, { useState } from 'react'
 
 export default function HomePage() {
