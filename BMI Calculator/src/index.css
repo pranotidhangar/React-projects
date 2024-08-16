@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-placeholder {
+    color: transparent; /* Hide the default placeholder text color */
+  }
+
+.custom-placeholder::before {
+    content: '$'; /* Add the dollar symbol */
+    background: skyblue; /* Sky blue background for the symbol */
+    color: white; /* White text color for the symbol */
+    padding: 0 4px; /* Optional padding */
+    border-radius: 4px; /* Optional border radius */
+  }
